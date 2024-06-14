@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natasha
-- 🏫 I’m currently pursuing my Master's in Computer Information Systems at Boston University
+- 🏫 I recently graduated from Boston University with a Master's in Computer Information Systems
 - 💻 Skills:  HTML, CSS, JavaScript, PHP, Java, Python, Kotlin, React, Node, Express, MongoDB, Figma, SQL, Tableau, MS Power BI
 
 <!---
