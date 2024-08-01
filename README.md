@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natasha
-- 🏫 I recently graduated from Boston University with a Master's in Computer Information Systems
-- 💻 Skills:  HTML, CSS, JavaScript, PHP, Java, Python, Kotlin, React, Node, Express, MongoDB, Figma, SQL, Tableau, MS Power BI
+- 🏫 MS in Computer Information Systems, Boston University | B.Com in Accounting & Finance, NMIMS University
+- 💻 Skills:  HTML, CSS, JavaScript, Java, Python, Kotlin, React, React Native, Node, Express, Next, SQL, MongoDB, Figma, Tableau, MS Power BI
 
 <!---
 natasha-mac/natasha-mac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
